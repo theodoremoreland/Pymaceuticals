@@ -9,16 +9,16 @@ Data analytics using Python, Pandas, and Matplotlib. The data features 250 mice 
 # Plots
 
 ## Average Tumor Volume Over Time
-<img src="presentation/1.PNG" width="900">
+<img src="presentation/1.png" width="900">
 
 ## Metastatic Sites Over Time
-<img src="presentation/2.PNG" width="900">
+<img src="presentation/2.png" width="900">
 
 ## Survival Rate (%) Over Time
-<img src="presentation/3.PNG" width="900">
+<img src="presentation/3.png" width="900">
 
 ## Tumor Volume Change (%) After 45 Days of Treatment
-<img src="presentation/4.PNG" width="900">
+<img src="presentation/4.png" width="900">
 
 # Conclusions
 * Ramicane had the greatest affect in reducing tumor growth between drugs. Ramicane is one of only two drugs that acheived an overall tumor reduction.
