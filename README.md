@@ -8,6 +8,13 @@ Data analytics using Python, Pandas, and Matplotlib. The data features 250 mice 
 
 *This was a homework assignment for Washington Univeristy's Data Analytics Boot Camp (2019)*
 
+# Conclusions
+* Ramicane had the greatest affect in reducing tumor growth between drugs. Ramicane is one of only two drugs that acheived an overall tumor reduction.
+
+* Mice given Propriva were the least likely to survive the 45 days; these mice had a survival rate of 26%, which is 22% below the median.
+
+* Ramicane maintained the fewest number of metastatic sites across the 45 days, ending with approximately 200% less than Mice treated with Ketapril.
+
 # Plots
 
 ## Average Tumor Volume Over Time
@@ -21,10 +28,3 @@ Data analytics using Python, Pandas, and Matplotlib. The data features 250 mice 
 
 ## Tumor Volume Change (%) After 45 Days of Treatment
 <img src="presentation/4.png" width="900">
-
-# Conclusions
-* Ramicane had the greatest affect in reducing tumor growth between drugs. Ramicane is one of only two drugs that acheived an overall tumor reduction.
-
-* Mice given Propriva were the least likely to survive the 45 days; these mice had a survival rate of 26%, which is 22% below the median.
-
-* Ramicane maintained the fewest number of metastatic sites across the 45 days, ending with approximately 200% less than Mice treated with Ketapril.
